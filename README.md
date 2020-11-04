@@ -1,1 +1,1 @@
-# CharacterController-Player-Version-1.0.0
+# C# script for a third person CharacterController in Unity
